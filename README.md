@@ -3,3 +3,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=FMercurYG&show_icons=true&theme=dark&count_private=true)
 
 ![](https://stats.justsong.cn/api/bilibili/?id=4132286&theme=dark)
+
+<img src="https://readme-typing-svg.herokuapp.com/?lines=消息1;消息2&font=Roboto" />
