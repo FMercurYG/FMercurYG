@@ -11,4 +11,4 @@
 
 ![:Augenestern-creator](https://count.getloli.com/get/@:FMercurYG?theme=gelbooru-h)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=FMercurYG&left_color=green&right_color=red)
+<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=FMercurYG&left_color=green&right_color=red"> </div>
