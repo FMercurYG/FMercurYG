@@ -13,6 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me
 - 😄 Pronouns
 - ⚡ Fun fact
-<---
-
+-->
 ![](https://github-readme-stats.vercel.app/api?username=FMercurYG&show_icons=true&theme=dark&count_private=true)
