@@ -11,4 +11,5 @@
 
 ![:Augenestern-creator](https://count.getloli.com/get/@:FMercurYG?theme=gelbooru-h)
 
+![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
 
