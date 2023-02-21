@@ -10,3 +10,5 @@
 ![](https://stats.justsong.cn/api/bilibili/?id=4132286&theme=dark)
 
 ![:Augenestern-creator](https://count.getloli.com/get/@:FMercurYG?theme=gelbooru-h)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=FMercurYG&left_color=green&right_color=red)
