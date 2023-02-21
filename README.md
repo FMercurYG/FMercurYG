@@ -9,4 +9,4 @@
 
 ![](https://stats.justsong.cn/api/bilibili/?id=4132286&theme=dark)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=FMercurYG)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=FMercurYG&theme=react-dark)]
