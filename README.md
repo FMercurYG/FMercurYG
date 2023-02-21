@@ -11,4 +11,4 @@
 
 ![:Augenestern-creator](https://count.getloli.com/get/@:FMercurYG?theme=gelbooru-h)
 
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=FMercurYG&left_color=green&right_color=red"> </div>
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FMercurYG&theme=dark)](https://git.io/streak-stats)
