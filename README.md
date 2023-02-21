@@ -11,4 +11,4 @@
 
 ![:Augenestern-creator](https://count.getloli.com/get/@:FMercurYG?theme=gelbooru-h)
 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FMercurYG&theme=dark)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=FMercurYG&theme=dark&locale=zh_Hans&date_format=%5BY.%5Dn.j)
